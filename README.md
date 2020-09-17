@@ -2,6 +2,8 @@
 
 **Repositório público para disponibilizar material oferecido nas aulas presenciais.**
 
+<p><img src="img/servers.png" /></p>
+
 ------
 
 # Implantação de Servidores (IDS 2020)
