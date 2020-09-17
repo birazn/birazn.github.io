@@ -6,8 +6,7 @@
 <p><img align="right" src="img/servers.png" width="250" /></p>
 
 # Implantação de Servidores (IDS 2020)
-<i class="icon-refresh"></i>
-[Instalando e Configurando PostgreSQL](https://github.com/birazn/IDS2020/blob/master/PostgreSQL.md)
 
+[Instalando e Configurando PostgreSQL](https://github.com/birazn/IDS2020/blob/master/PostgreSQL.md)
 [Instalando e Configurando Apache Tomcat](https://github.com/birazn/IDS2020/blob/master/ApacheTomCat.md)
 
