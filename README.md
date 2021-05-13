@@ -5,9 +5,11 @@
 -----
 <p><img align="right" src="img/servers.png" width="250" /></p>
 
-# Implantação de Servidores (IDS 2020)
+# Implantação de Servidores (IDS - IFSP VTP)
 
-[Instalando e Configurando PostgreSQL](https://github.com/birazn/IDS2020/blob/master/PostgreSQL.md)
+[Instalando e Configurando Servidor Web Apache](https://github.com/birazn/IDS-IFSPVTP/blob/master/ServidorWeb_Apache.md)
 
-[Instalando e Configurando Apache Tomcat](https://github.com/birazn/IDS2020/blob/master/ApacheTomCat.md)
+[Instalando e Configurando PostgreSQL](https://github.com/birazn/IDS-IFSPVTP/blob/master/PostgreSQL.md)
+
+[Instalando e Configurando Apache Tomcat](https://github.com/birazn/IDS-IFSPVTP/blob/master/ApacheTomCat.md)
 
