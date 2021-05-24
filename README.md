@@ -9,7 +9,3 @@
 
 [Instalando e Configurando Servidor Web Apache](https://github.com/birazn/IDS-IFSPVTP/blob/master/ServidorWeb_Apache.md)
 
-[Instalando e Configurando PostgreSQL](https://github.com/birazn/IDS-IFSPVTP/blob/master/PostgreSQL.md)
-
-[Instalando e Configurando Apache Tomcat](https://github.com/birazn/IDS-IFSPVTP/blob/master/ApacheTomCat.md)
-
