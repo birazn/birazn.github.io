@@ -11,3 +11,4 @@
 
 <a href="https://github.com/birazn/IDS-IFSPVTP/blob/master/VirtualHosts_Apache.md">Configurando Apache VirtualHost</a>
 
+<a href="https://github.com/birazn/IDS-IFSPVTP/blob/master/PostgreSQL.md">Instalando e Configurando PostgreSQL</a>
