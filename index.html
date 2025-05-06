@@ -1,146 +1,40 @@
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Página do Professor</title>
-    <style>
-        body {
-            font-family: sans-serif;
-            margin: 0;
-            background-color: #F2F2F2;
-            color: #222; /* Tom quase preto */
-            line-height: 1.6;
-        }
-
-        .container {
-            max-width: 800px;
-            margin: 40px auto;
-            padding: 30px;
-            background-color: #fff;
-            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-            border-radius: 8px;
-        }
-
-        header {
-            text-align: center;
-            margin-bottom: 30px;
-        }
-
-        header h1 {
-            color: #0442BF;
-            font-size: 2.5em;
-            margin-bottom: 10px;
-        }
-
-        header p {
-            color: #595959;
-            font-size: 1.1em;
-        }
-
-        nav ul {
-            list-style: none;
-            padding: 0;
-            text-align: center;
-            margin-bottom: 20px;
-        }
-
-        nav ul li {
-            display: inline;
-            margin: 0 15px;
-        }
-
-        nav ul li a {
-            text-decoration: none;
-            color: #0476D9;
-            font-weight: bold;
-        }
-
-        nav ul li a:hover {
-            color: #0597F2;
-        }
-
-        .section {
-            margin-bottom: 40px;
-            padding-bottom: 20px;
-            border-bottom: 1px solid #eee;
-        }
-
-        .section:last-child {
-            border-bottom: none;
-        }
-
-        .section h2 {
-            color: #0442BF;
-            margin-top: 0;
-            margin-bottom: 15px;
-        }
-
-        footer {
-            text-align: center;
-            padding-top: 20px;
-            color: #595959;
-            font-size: 0.9em;
-        }
-    </style>
+    <title>Seu Nome - Portfólio</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <div class="container">
-        <header>
-            <h1>[Nome do Professor]</h1>
-            <p>[Sua área de atuação/departamento]</p>
-        </header>
+    <header>
+        <h1>Seu Nome</h1>
+        <p>Desenvolvedor Linux | Docker | PHP | AWS | Cybersegurança | Redes</p>
+    </header>
 
-        <nav>
-            <ul>
-                <li><a href="#sobre">Sobre</a></li>
-                <li><a href="#publicacoes">Publicações</a></li>
-                <li><a href="#cursos">Cursos</a></li>
-                <li><a href="#contato">Contato</a></li>
-            </ul>
-        </nav>
+    <section id="tecnologias">
+        <h2>Tecnologias</h2>
+        <div class="badges">
+            <span class="badge">Linux</span>
+            <span class="badge">Docker</span>
+            <span class="badge">PHP</span>
+            <span class="badge">AWS</span>
+            <span class="badge">Cybersegurança</span>
+            <span class="badge">Redes</span>
+        </div>
+    </section>
 
-        <section id="sobre" class="section">
-            <h2>Sobre Mim</h2>
-            <p>Aqui você pode adicionar uma breve descrição sobre você, sua trajetória acadêmica, seus interesses de pesquisa, etc. Use Markdown para formatar o texto.</p>
-            <ul>
-                <li>Formação: [Sua formação]</li>
-                <li>Áreas de Interesse: [Suas áreas de interesse]</li>
-            </ul>
-        </section>
+    <section id="repositorios">
+        <h2>Meus Repositórios</h2>
+        <div id="repositorios-lista">
+            <p>Carregando repositórios...</p>
+        </div>
+    </section>
 
-        <section id="publicacoes" class="section">
-            <h2>Publicações</h2>
-            <p>Liste suas publicações mais relevantes aqui. Você pode usar Markdown para formatar a lista.</p>
-            <ul>
-                <li>[Título da Publicação 1] - [Ano]</li>
-                <li>[Título da Publicação 2] - [Ano]</li>
-                <li>...</li>
-            </ul>
-        </section>
+    <footer>
+        <p>&copy; 2025 Seu Nome. Todos os direitos reservados.</p>
+    </footer>
 
-        <section id="cursos" class="section">
-            <h2>Cursos</h2>
-            <p>Liste os cursos que você ministra ou já ministrou.</p>
-            <ul>
-                <li>[Nome do Curso 1]</li>
-                <li>[Nome do Curso 2]</li>
-                <li>...</li>
-            </ul>
-        </section>
-
-        <section id="contato" class="section">
-            <h2>Contato</h2>
-            <p>Informações para contato.</p>
-            <ul>
-                <li>Email: <a href="mailto:[seu_email]">[seu_email]</a></li>
-                <li>Outros links (Lattes, LinkedIn, etc.): <a href="[URL]">[Nome do Link]</a></li>
-            </ul>
-        </section>
-
-        <footer>
-            <p>&copy; [Ano Atual] [Nome do Professor]</p>
-        </footer>
-    </div>
+    <script src="script.js"></script>
 </body>
 </html>
