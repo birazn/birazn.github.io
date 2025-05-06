@@ -1,81 +1,83 @@
-# Prof. [Seu Nome] 👨‍🏫
+# 👨‍🏫 Prof. [Seu Nome]
 
-> *Compartilhando conhecimento e construindo o futuro*
+> #### *Compartilhando conhecimento e construindo o futuro*
 
-[![Email](https://img.shields.io/badge/Email-contato%40seudominio.com-blue?style=flat-square&logo=gmail)](mailto:contato@seudominio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/seuperfil/)
-[![Site Pessoal](https://img.shields.io/badge/Site-Pessoal-32CD32?style=flat-square&logo=safari)](https://seusite.com)
+[![Email](https://img.shields.io/badge/Email-seuemail%40instituicao.edu-blue?style=flat-square&logo=gmail)](mailto:seuemail@instituicao.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/seuperfil/)
+[![Site Pessoal](https://img.shields.io/badge/Site-Pessoal-green?style=flat-square&logo=react)](https://seusite.com.br)
 
-## Sobre Mim 🎓
+## 📚 Sobre Mim
 
-Professor de [sua área] na [sua instituição], especialista em [suas especialidades]. 
-Dedico-me à criação de conteúdos educacionais de qualidade e ao desenvolvimento de projetos inovadores com meus alunos.
-
----
-
-## Materiais Didáticos 📚
-
-Aqui você encontra materiais didáticos e recursos para as disciplinas que leciono:
-
-- **[Nome da Disciplina 1](link-para-repositorio)** - Fundamentos e práticas essenciais
-- **[Nome da Disciplina 2](link-para-repositorio)** - Conceitos avançados e aplicações
-- **[Nome da Disciplina 3](link-para-repositorio)** - Tópicos especiais e pesquisa
+Professor de [sua área] na [sua instituição], com foco em [suas especialidades]. 
+Apaixonado por [seus interesses relacionados à educação/pesquisa] e dedicado a criar materiais didáticos acessíveis e de qualidade.
 
 ---
 
-## Projetos em Destaque 🚀
+## 🎓 Disciplinas Atuais
+
+| Código | Disciplina               | Semestre | Material                      |
+|--------|--------------------------|----------|-------------------------------|
+| CS101  | Introdução à Programação | 2025.1   | [Acessar](/disciplinas/CS101) |
+| CS202  | Estruturas de Dados      | 2025.1   | [Acessar](/disciplinas/CS202) |
+| AI405  | Machine Learning         | 2025.1   | [Acessar](/disciplinas/AI405) |
+
+---
+
+## 📂 Projetos e Recursos
+
+### 🔧 Projetos para Alunos
+- [**Nome do Projeto**](link): Breve descrição do projeto e como os alunos podem contribuir.
+- [**Nome do Projeto**](link): Breve descrição do projeto e como os alunos podem contribuir.
+
+### 📖 Materiais Didáticos
+- [**Biblioteca de Algoritmos**](/recursos/algoritmos): Implementações e explicações dos principais algoritmos.
+- [**Guias de Estudo**](/recursos/guias): Materiais complementares para aprofundamento.
+- [**Tutoriais Práticos**](/recursos/tutoriais): Passo a passo para configuração de ambientes e ferramentas.
+
+### 🧪 Laboratórios e Exercícios
+- [**Laboratório de Programação**](/labs/programacao): Exercícios práticos de programação.
+- [**Desafios Semanais**](/labs/desafios): Problemas para desenvolver o pensamento crítico.
+
+---
+
+## 📅 Horários de Atendimento
+
+| Dia     | Horário       | Local              |
+|---------|---------------|--------------------|
+| Segunda | 14:00 - 16:00 | Sala 302           |
+| Quarta  | 10:00 - 12:00 | Virtual (MS Teams) |
+
+_Para agendamentos fora desses horários, por favor, envie um e-mail._
+
+---
+
+## 🔍 Como Navegar por Este Repositório
+
+1. Os materiais estão organizados por disciplina na pasta [`/disciplinas`](/disciplinas)
+2. Cada disciplina tem sua própria estrutura com:
+   - Plano de ensino
+   - Slides das aulas
+   - Listas de exercícios
+   - Projetos
+   - Bibliografia recomendada
+3. Recursos gerais e interdisciplinares estão na pasta [`/recursos`](/recursos)
+
+---
+
+## 📢 Avisos Importantes
+
+- [**Calendário Acadêmico**](link-para-calendario) - Fique atento às datas importantes
+- As entregas devem ser feitas através do sistema [Nome do Sistema] da instituição
+- Política de atendimento fora de horário: [suas regras]
+
+---
+
+## 🤝 Contribua
+
+Encontrou algum erro ou tem sugestões? Abra uma [issue](link-para-issues) ou envie um Pull Request!
+
+---
 
 <div align="center">
-
-[![Projeto 1](https://github-readme-stats.vercel.app/api/pin/?username=seu-usuario&repo=nome-do-repo-1&theme=vue)](https://github.com/seu-usuario/nome-do-repo-1)
-[![Projeto 2](https://github-readme-stats.vercel.app/api/pin/?username=seu-usuario&repo=nome-do-repo-2&theme=vue)](https://github.com/seu-usuario/nome-do-repo-2)
-
-</div>
-
----
-
-## Recursos para Alunos 🔍
-
-- **[Biblioteca de Algoritmos](link)** - Implementações e explicações detalhadas
-- **[Tutoriais](link)** - Guias passo a passo para configuração de ambientes
-- **[Templates](link)** - Modelos para projetos e trabalhos acadêmicos
-
----
-
-## Ferramentas e Tecnologias 🛠️
-
-<div align="center">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</div>
-
----
-
-## Contato e Atendimento 📬
-
-- **Email Acadêmico:** [seu.email@instituicao.edu](mailto:seu.email@instituicao.edu)
-- **Horários de Atendimento:** Segundas e Quartas, 14h às 16h
-- **Local:** Sala 302, Bloco A (ou via Microsoft Teams)
-
----
-
-## Estatísticas GitHub 📊
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=seu-usuario&theme=vue" />
-</div>
-
----
-
-<div align="center">
-  
-  ![Visualizações do Perfil](https://komarev.com/ghpvc/?username=seu-usuario&color=brightgreen&style=flat-square)
-  
   <sub>Feito com ❤️ para meus alunos | Última atualização: Maio/2025</sub>
 </div>
