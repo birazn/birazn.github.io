@@ -2,6 +2,8 @@
 
 > #### *Compartilhando conhecimento e construindo o futuro*
 
+![alt](/img/servers.png)
+
 [![Email](https://img.shields.io/badge/Email-seuemail%40instituicao.edu-blue?style=flat-square&logo=gmail)](mailto:seuemail@instituicao.edu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/seuperfil/)
 [![Site Pessoal](https://img.shields.io/badge/Site-Pessoal-green?style=flat-square&logo=react)](https://seusite.com.br)
