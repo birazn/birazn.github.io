@@ -14,16 +14,16 @@ Professor do IFSP Campus Votuporanga, com foco em Infraestrutura, Redes, Ciberse
 Apaixonado por [seus interesses relacionados à educação/pesquisa] e dedicado a criar materiais didáticos acessíveis e de qualidade.
 
 ---
-<!--
 ## 🎓 Disciplinas Atuais
 
-| Código | Disciplina               | Semestre | Material                      |
-|--------|--------------------------|----------|-------------------------------|
-| CS101  | Introdução à Programação | 2025.1   | [Acessar](/disciplinas/CS101) |
-| CS202  | Estruturas de Dados      | 2025.1   | [Acessar](/disciplinas/CS202) |
-| AI405  | Machine Learning         | 2025.1   | [Acessar](/disciplinas/AI405) |
+| Código  | Disciplina                                    | Semestre | Material |
+|---------|-----------------------------------------------|----------|----------|
+| VTPSEGI | Segurança da Informação - INT-3               | 2025.1   | - Moodle |
+| VTPISRV | Implantação de Servidores - BSI-5             | 2025.1   | - Moodle |
+| GESI2   | Gestão em Segurança da Informação - PósGrad-2 | 2025.1   | - Moodle |
 
 ---
+<!--
 
 ## 📂 Projetos e Recursos
 
