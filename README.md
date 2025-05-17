@@ -1,16 +1,16 @@
-# 👨‍🏫 Prof. [Seu Nome]
+# 👨‍🏫 Prof. [Ubiratan Nascimento]
 
 > #### *Compartilhando conhecimento e construindo o futuro*
 
 ![Servers](/img/servers.png)
 
-[![Email](https://img.shields.io/badge/Email-seuemail%40instituicao.edu-blue?style=flat-square&logo=gmail)](mailto:seuemail@instituicao.edu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/seuperfil/)
-[![Site Pessoal](https://img.shields.io/badge/Site-Pessoal-green?style=flat-square&logo=react)](https://seusite.com.br)
+[![Email](https://img.shields.io/badge/Email-seuemail%40instituicao.edu-blue?style=flat-square&logo=gmail)](mailto:birazn@ifsp.edu.br)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/birazn/)
+[![Site Pessoal](https://img.shields.io/badge/Site-Pessoal-green?style=flat-square&logo=react)](https://onucleo.com.br)
 
 ## 📚 Sobre Mim
 
-Professor de [sua área] na [sua instituição], com foco em [suas especialidades]. 
+Professor do IFSP Campus Votuporanga, com foco em Infraestrutura, Redes, Cibersegurança, Linux Docker e Nuvem. 
 Apaixonado por [seus interesses relacionados à educação/pesquisa] e dedicado a criar materiais didáticos acessíveis e de qualidade.
 
 ---
