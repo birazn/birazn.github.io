@@ -4,9 +4,9 @@
 
 ![Servers](/img/servers.png)
 
-[![Email](https://img.shields.io/badge/Email-seuemail%40instituicao.edu-blue?style=flat-square&logo=gmail)](mailto:birazn@ifsp.edu.br)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/birazn/)
-[![Site Pessoal](https://img.shields.io/badge/Site-Pessoal-green?style=flat-square&logo=react)](https://onucleo.com.br)
+[![Email](https://img.shields.io/badge/Email-birazn@ifsp.edu.br-blue?style=flat-square&logo=gmail)](mailto:birazn@ifsp.edu.br)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-birazn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/birazn/)
+[![Site Pessoal](https://img.shields.io/badge/Site-onucleo.com.br-green?style=flat-square&logo=react)](https://onucleo.com.br)
 
 ## 📚 Sobre Mim
 
