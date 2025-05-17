@@ -14,7 +14,7 @@ Professor do IFSP Campus Votuporanga, com foco em Infraestrutura, Redes, Ciberse
 Apaixonado por [seus interesses relacionados à educação/pesquisa] e dedicado a criar materiais didáticos acessíveis e de qualidade.
 
 ---
-
+<!--
 ## 🎓 Disciplinas Atuais
 
 | Código | Disciplina               | Semestre | Material                      |
@@ -83,3 +83,4 @@ Encontrou algum erro ou tem sugestões? Abra uma [issue](link-para-issues) ou en
 <div align="center">
   <sub>Feito com ❤️ para meus alunos | Última atualização: Maio/2025</sub>
 </div>
+-->
