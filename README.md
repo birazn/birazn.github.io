@@ -10,17 +10,20 @@
 
 ## 📚 Sobre Mim
 
-Professor do IFSP Campus Votuporanga, com foco em Infraestrutura, Redes, Cibersegurança, Linux Docker e Nuvem. 
-Apaixonado por [seus interesses relacionados à educação/pesquisa] e dedicado a criar materiais didáticos acessíveis e de qualidade.
+Professor do IFSP Campus Votuporanga, com foco em Infraestrutura, Redes, Cibersegurança, Linux Docker e Nuvem.
+Entusiasta por Software Livre, misturando educação e tecnologia. Dedicado a criar materiais didáticos acessíveis e de qualidade.
 
 ---
+
 ## 🎓 Disciplinas Atuais
 
 | Código  | Disciplina                                    | Semestre | Material |
 |---------|-----------------------------------------------|----------|----------|
-| VTPSEGI | Segurança da Informação - INT-3               | 2025.1   | - Moodle |
+| VTPSEGI | Segurança da Informação - INT-3               | 2025     | - Moodle |
 | VTPISRV | Implantação de Servidores - BSI-5             | 2025.1   | - Moodle |
 | GESI2   | Gestão em Segurança da Informação - PósGrad-2 | 2025.1   | - Moodle |
+| VTPSSIF | Segurança da Informação - BSI-6               | 2025.2   | - Moodle |
+| VTPSOFL | Software Livre - BSI-2                        | 2025.2   | - Moodle |
 
 ---
 <!--
