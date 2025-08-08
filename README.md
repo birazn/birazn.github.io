@@ -2,7 +2,7 @@
 
 > #### *Compartilhando conhecimento e construindo o futuro*
 
-![Servers](/img/servers.png)
+![Servers w:300](/img/servers.png)
 
 [![Email](https://img.shields.io/badge/Email-birazn@ifsp.edu.br-blue?style=flat-square&logo=gmail)](mailto:birazn@ifsp.edu.br)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-birazn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/birazn/)
