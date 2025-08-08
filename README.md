@@ -1,8 +1,9 @@
 # 👨‍🏫 Prof. [Ubiratan Nascimento]
 
-> #### *Compartilhando conhecimento e construindo o futuro*
+> ## *Compartilhando conhecimento e construindo o futuro*
 
-![Servers w:300](/img/servers.png)
+<!-- markdownlint-disable MD033 -->
+<img src="./img/servers.png" width="50%" alt="Imagem de servidores enviando dados a nuvem" title="Imagem de servidores enviando dados a nuvem" />
 
 [![Email](https://img.shields.io/badge/Email-birazn@ifsp.edu.br-blue?style=flat-square&logo=gmail)](mailto:birazn@ifsp.edu.br)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-birazn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/birazn/)
@@ -10,7 +11,7 @@
 
 ## 📚 Sobre Mim
 
-Professor do IFSP Campus Votuporanga, com foco em Infraestrutura, Redes, Cibersegurança, Linux Docker e Nuvem.
+Professor do IFSP Campus Votuporanga, com foco em Infraestrutura, Redes, Cibersegurança, Linux, Docker e Nuvem.\
 Entusiasta por Software Livre, misturando educação e tecnologia. Dedicado a criar materiais didáticos acessíveis e de qualidade.
 
 ---
